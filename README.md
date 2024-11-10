@@ -9,7 +9,7 @@ Hello! Welcome to James' project! This is the Super Minds Level 2 file. If you w
 5. Open "Super Minds Level 2".
 6. Choose "setup.msi" (Windows).
 
-
-https://www.cambridge.org/lt/files/9115/1964/5781/Installing_Classware_on_later_versions_of_Mac_OSX.pdf
-https://cambridge.org/lt/files/4515/1266/9160/Installation_instructions_on_Mac_with_latest_updated_Installer_final.pdf
-https://support.apple.com/vi-vn/guide/mac-help/mchlp2528/mac#:~:text=Unzip%20(expand)%20a%20compressed%20item,Mac%20for%20the%20unzipped%20item.
+       
+        https://www.cambridge.org/lt/files/9115/1964/5781/Installing_Classware_on_later_versions_of_Mac_OSX.pdf
+        https://cambridge.org/lt/files/4515/1266/9160/Installation_instructions_on_Mac_with_latest_updated_Installer_final.pdf
+        https://support.apple.com/vi-vn/guide/mac-help/mchlp2528/mac#:~:text=Unzip%20(expand)%20a%20compressed%20item,Mac%20for%20the%20unzipped%20item.
